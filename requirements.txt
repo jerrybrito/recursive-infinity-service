@@ -1,0 +1,2 @@
+# Requires: hypothetical-entropy
+# (Not available on PyPI)
